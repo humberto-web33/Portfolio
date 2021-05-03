@@ -1,0 +1,11 @@
+Data Scraping: Extração de dados de uma página web e enviar para aplicões desktop
+Debug: Tratamentos de erro e Depuração do Robô
+Extração de dados: Arquivo PDF para aplições desktop
+OCR: Reconhecimento ótico de caracteres lendo dados de arquivos de imagens transformando em dados para outras aplicações
+Actives: Criação de próprias actives
+Orhestrator: Do Básico ao Avançado
+Robô monitoring: Recurso de monitoramneto e sistema de arquivos
+Robô mailing: Recursos de Monitoramneto de email
+Robotic Enterprise FrameWork: Trabalhando com Máquinas de Estados
+RPA Cognitivo: Aplicando Inteligência Artificial no Robô
+ 
